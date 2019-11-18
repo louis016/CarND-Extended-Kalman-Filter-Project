@@ -1,3 +1,0 @@
-/home/ca/Desktop/CarND-Extended-Kalman-Filter-Project/build/CMakeFiles/rebuild_cache.dir
-/home/ca/Desktop/CarND-Extended-Kalman-Filter-Project/build/CMakeFiles/ExtendedKF.dir
-/home/ca/Desktop/CarND-Extended-Kalman-Filter-Project/build/CMakeFiles/edit_cache.dir
